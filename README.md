@@ -1,5 +1,7 @@
 # Mobwatch
 
+Automatically reload web apps on locally connected mobile devices every time a change occurs.
+
 ## Getting Started
 Install the module with: `npm install -g mobwatch`
 
